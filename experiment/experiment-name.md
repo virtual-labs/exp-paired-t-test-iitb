@@ -1,1 +1,1 @@
-## Experiment name
+## Hypothesis Testing: The paired t test
