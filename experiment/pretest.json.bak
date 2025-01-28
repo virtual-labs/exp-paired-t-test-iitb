@@ -1,0 +1,47 @@
+[
+   {
+      "question": "In case of dependent samples, testing the significance of the difference between two sample means. Formula : t<sub>cal</sub> = (d&#772; &times; &Sqrt;(n-1) / S<sub>d</sub>) ",
+      "qid": 1,
+      "option_a": "True",
+      "option_b": "May be false",
+      "option_c": "False",
+      "option_d": "May be true",
+      "correct_option": "a"
+   },
+   {
+      "question": "A paired t-test is designed to compare mean of",
+      "qid": 2,
+      "option_a": "different groups",
+      "option_b": "same groups",
+      "option_c": "both groups",
+      "option_d": "different groups with dependent observations",
+      "correct_option": "b"
+   },
+   {
+      "question": "In paired t-test, variance is assummed to be",
+      "qid": 3,
+      "option_a": "unknown & unequal",
+      "option_b": "known & equal",
+      "option_c": "known & unequal",
+      "option_d": "unknown & equal",
+      "correct_option": "d"
+   },
+   {
+      "question": "Which of these is a type of t-test?",
+      "qid": 4,
+      "option_a": "one sample t-test",
+      "option_b": "independent two sample t-test",
+      "option_c": "Paired t-test",
+      "option_d": "All of these",
+      "correct_option": "d"
+   },
+   {
+      "question": "To use a t-test, the dependent variable must have",
+      "qid": 5,
+      "option_a": "Nominal or interval data",
+      "option_b": "Ordinal or ratio data",
+      "option_c": "Interval or ratio data",
+      "option_d": "Ordinal or internal data",
+      "correct_option": "d"
+   }
+]
