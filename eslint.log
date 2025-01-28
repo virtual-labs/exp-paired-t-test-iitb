@@ -1,0 +1,273 @@
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/activity1.js
+   18:24  warning  'MathJax' is not defined                      no-undef
+   26:20  warning  'get_collapse_btn_text' is not defined        no-undef
+   43:5   warning  'hide_all_steps' is not defined               no-undef
+   45:25  warning  'n' is not defined                            no-undef
+   49:19  warning  'Show_Table' is not defined                   no-undef
+   49:40  warning  'x1' is not defined                           no-undef
+   52:25  warning  'n' is not defined                            no-undef
+   56:20  warning  'Show_Table' is not defined                   no-undef
+   56:41  warning  'x2' is not defined                           no-undef
+   58:24  warning  'show_step' is not defined                    no-undef
+   59:24  warning  'MathJax' is not defined                      no-undef
+   61:10  warning  'generate_a1_data' is defined but never used  no-unused-vars
+   65:5   warning  'x1' is not defined                           no-undef
+   66:5   warning  'x2' is not defined                           no-undef
+   67:25  warning  'n' is not defined                            no-undef
+   69:9   warning  'x1' is not defined                           no-undef
+   71:25  warning  'n' is not defined                            no-undef
+   73:9   warning  'x2' is not defined                           no-undef
+   75:24  warning  'n' is not defined                            no-undef
+   76:33  warning  'x1' is not defined                           no-undef
+   77:33  warning  'x2' is not defined                           no-undef
+   81:5   warning  'd_bar_values' is not defined                 no-undef
+   82:5   warning  'sigma_d' is not defined                      no-undef
+   83:25  warning  'x1' is not defined                           no-undef
+   84:9   warning  'd_bar_values' is not defined                 no-undef
+   84:27  warning  'x2' is not defined                           no-undef
+   84:35  warning  'x1' is not defined                           no-undef
+   85:9   warning  'sigma_d' is not defined                      no-undef
+   85:20  warning  'x2' is not defined                           no-undef
+   85:28  warning  'x1' is not defined                           no-undef
+   87:5   warning  'avg_d' is not defined                        no-undef
+   87:13  warning  'sigma_d' is not defined                      no-undef
+   87:23  warning  'n' is not defined                            no-undef
+   88:29  warning  'avg_d' is not defined                        no-undef
+   92:5   warning  'std_dev_d_bar' is not defined                no-undef
+   93:25  warning  'd_bar_values' is not defined                 no-undef
+   94:9   warning  'std_dev_d_bar' is not defined                no-undef
+   94:37  warning  'd_bar_values' is not defined                 no-undef
+   94:55  warning  'avg_d' is not defined                        no-undef
+   96:5   warning  'std_dev_d_bar' is not defined                no-undef
+   96:21  warning  'std_dev_d_bar' is not defined                no-undef
+   96:38  warning  'n' is not defined                            no-undef
+   97:5   warning  'std_dev_d_bar' is not defined                no-undef
+   97:31  warning  'std_dev_d_bar' is not defined                no-undef
+   98:5   warning  'std_dev_d_bar' is not defined                no-undef
+   98:21  warning  'std_dev_d_bar' is not defined                no-undef
+   98:47  warning  'n' is not defined                            no-undef
+   99:41  warning  'std_dev_d_bar' is not defined                no-undef
+  103:5   warning  'statistic_value' is not defined              no-undef
+  103:23  warning  'avg_d' is not defined                        no-undef
+  103:31  warning  'std_dev_d_bar' is not defined                no-undef
+  104:17  warning  'statistic_value' is not defined              no-undef
+  106:12  warning  'statistic_value' is not defined              no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/activity1_p2.js
+    2:10   warning  'activity1_p2' is defined but never used            no-unused-vars
+    3:19   warning  'get_collapse_btn_text' is not defined              no-undef
+    4:5    warning  'maindiv' is not defined                            no-undef
+   28:5    warning  'table_data' is not defined                         no-undef
+   29:25   warning  'x1' is not defined                                 no-undef
+   30:9    warning  'table_data' is not defined                         no-undef
+   30:33   warning  'x1' is not defined                                 no-undef
+   30:40   warning  'x2' is not defined                                 no-undef
+   30:47   warning  'x2' is not defined                                 no-undef
+   30:55   warning  'x1' is not defined                                 no-undef
+   30:63   warning  'x2' is not defined                                 no-undef
+   30:71   warning  'x1' is not defined                                 no-undef
+   30:80   warning  'avg_d' is not defined                              no-undef
+   30:99   warning  'x2' is not defined                                 no-undef
+   30:107  warning  'x1' is not defined                                 no-undef
+   30:116  warning  'avg_d' is not defined                              no-undef
+   32:17   warning  'table_data' is not defined                         no-undef
+   36:25   warning  'Verify_Rows_Cols_6_decimal_places' is not defined  no-undef
+   36:67   warning  'table_data' is not defined                         no-undef
+   40:5    warning  'hide_all_steps' is not defined                     no-undef
+   41:24   warning  'show_step' is not defined                          no-undef
+   42:24   warning  'MathJax' is not defined                            no-undef
+   45:19   warning  'get_collapse_btn_text' is not defined              no-undef
+   46:5    warning  'maindiv' is not defined                            no-undef
+   72:5    warning  'hide_all_steps' is not defined                     no-undef
+   73:24   warning  'show_step' is not defined                          no-undef
+   74:24   warning  'MathJax' is not defined                            no-undef
+   77:10   warning  'verify_sum' is defined but never used              no-unused-vars
+   85:17   warning  'avg_d' is not defined                              no-undef
+   85:24   warning  'std_dev_d_bar' is not defined                      no-undef
+   85:50   warning  'n' is not defined                                  no-undef
+   85:54   warning  'std_dev_d_bar' is not defined                      no-undef
+   86:10   warning  'verify_values' is not defined                      no-undef
+   86:48   warning  'avg_d' is not defined                              no-undef
+   90:10   warning  'verify_values' is not defined                      no-undef
+   90:48   warning  'std_dev_d_bar' is not defined                      no-undef
+   90:74   warning  'n' is not defined                                  no-undef
+   94:10   warning  'verify_values' is not defined                      no-undef
+   94:48   warning  'std_dev_d_bar' is not defined                      no-undef
+  102:21   warning  'avg_d' is not defined                              no-undef
+  103:22   warning  'std_dev_d_bar' is not defined                      no-undef
+  103:48   warning  'n' is not defined                                  no-undef
+  104:21   warning  'std_dev_d_bar' is not defined                      no-undef
+  113:19   warning  'get_collapse_btn_text' is not defined              no-undef
+  114:5    warning  'maindiv' is not defined                            no-undef
+  143:32   warning  't_distribution_data' is not defined                no-undef
+  147:14   warning  't_distribution_data' is not defined                no-undef
+  148:14   warning  't_distribution_data' is not defined                no-undef
+  149:14   warning  't_distribution_data' is not defined                no-undef
+  150:14   warning  't_distribution_data' is not defined                no-undef
+  151:14   warning  't_distribution_data' is not defined                no-undef
+  152:14   warning  't_distribution_data' is not defined                no-undef
+  153:14   warning  't_distribution_data' is not defined                no-undef
+  158:25   warning  'Display_Table' is not defined                      no-undef
+  160:5    warning  'hide_all_steps' is not defined                     no-undef
+  161:24   warning  'show_step' is not defined                          no-undef
+  162:24   warning  'MathJax' is not defined                            no-undef
+  164:10   warning  'verify_threshold_div' is defined but never used    no-unused-vars
+  165:19   warning  'get_collapse_btn_text' is not defined              no-undef
+  166:5    warning  'maindiv' is not defined                            no-undef
+  187:5    warning  'hide_all_steps' is not defined                     no-undef
+  188:24   warning  'show_step' is not defined                          no-undef
+  189:24   warning  'MathJax' is not defined                            no-undef
+  193:5    warning  'lower_t_bound' is not defined                      no-undef
+  194:5    warning  'upper_t_bound' is not defined                      no-undef
+  196:19   warning  'n' is not defined                                  no-undef
+  197:9    warning  't_distribution_data' is not defined                no-undef
+  202:32   warning  't_distribution_data' is not defined                no-undef
+  209:22   warning  't_distribution_data' is not defined                no-undef
+  210:22   warning  't_distribution_data' is not defined                no-undef
+  212:17   warning  'upper_t_bound' is not defined                      no-undef
+  212:33   warning  'extrapolate' is not defined                        no-undef
+  213:17   warning  'lower_t_bound' is not defined                      no-undef
+  213:34   warning  'upper_t_bound' is not defined                      no-undef
+  214:53   warning  'lower_t_bound' is not defined                      no-undef
+  214:71   warning  'upper_t_bound' is not defined                      no-undef
+  220:9    warning  'upper_t_bound' is not defined                      no-undef
+  220:25   warning  't_distribution_data' is not defined                no-undef
+  221:9    warning  'lower_t_bound' is not defined                      no-undef
+  221:26   warning  'upper_t_bound' is not defined                      no-undef
+  222:45   warning  'lower_t_bound' is not defined                      no-undef
+  222:63   warning  'upper_t_bound' is not defined                      no-undef
+  225:9    warning  'statistic_value' is not defined                    no-undef
+  225:28   warning  'lower_t_bound' is not defined                      no-undef
+  225:45   warning  'statistic_value' is not defined                    no-undef
+  225:64   warning  'upper_t_bound' is not defined                      no-undef
+  226:9    warning  'hypothesis_passed' is not defined                  no-undef
+  229:9    warning  'hypothesis_passed' is not defined                  no-undef
+  232:10   warning  'verify_t_vals' is defined but never used           no-unused-vars
+  238:17   warning  'lower_t_bound' is not defined                      no-undef
+  238:32   warning  'upper_t_bound' is not defined                      no-undef
+  239:10   warning  'verify_values' is not defined                      no-undef
+  239:48   warning  'lower_t_bound' is not defined                      no-undef
+  243:10   warning  'verify_values' is not defined                      no-undef
+  243:48   warning  'upper_t_bound' is not defined                      no-undef
+  250:21   warning  'avg_d' is not defined                              no-undef
+  251:22   warning  'std_dev_d_bar' is not defined                      no-undef
+  251:48   warning  'n' is not defined                                  no-undef
+  257:5    warning  'activity1_p3' is not defined                       no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/activity1_p3.js
+   1:10  warning  'activity1_p3' is defined but never used  no-unused-vars
+   2:19  warning  'get_collapse_btn_text' is not defined    no-undef
+   3:5   warning  'maindiv' is not defined                  no-undef
+  23:5   warning  'hide_all_steps' is not defined           no-undef
+  24:24  warning  'show_step' is not defined                no-undef
+  25:24  warning  'MathJax' is not defined                  no-undef
+  27:10  warning  'verify_st' is defined but never used     no-unused-vars
+  31:17  warning  'statistic_value' is not defined          no-undef
+  32:10  warning  'verify_values' is not defined            no-undef
+  32:48  warning  'statistic_value' is not defined          no-undef
+  38:21  warning  'statistic_value' is not defined          no-undef
+  42:5   warning  'activity1_p4' is not defined             no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/activity1_p4.js
+   1:10   warning  'activity1_p4' is defined but never used  no-unused-vars
+   6:19   warning  'get_collapse_btn_text' is not defined    no-undef
+   7:5    warning  'maindiv' is not defined                  no-undef
+  16:28   warning  'Updated_Question' is not defined         no-undef
+  16:127  warning  'hypothesis_passed' is not defined        no-undef
+  16:155  warning  'activity1_p2' is not defined             no-undef
+  17:24   warning  'MathJax' is not defined                  no-undef
+  18:5    warning  'hide_all_steps' is not defined           no-undef
+  19:24   warning  'show_step' is not defined                no-undef
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/data.js
+  146:5   warning  'n' is assigned a value but never used                  no-unused-vars
+  147:5   warning  'x1' is defined but never used                          no-unused-vars
+  148:5   warning  'x2' is defined but never used                          no-unused-vars
+  149:5   warning  'x_bar' is assigned a value but never used              no-unused-vars
+  150:5   warning  'd_bar_values' is assigned a value but never used       no-unused-vars
+  151:5   warning  'sigma_d' is assigned a value but never used            no-unused-vars
+  152:5   warning  'avg_d' is assigned a value but never used              no-unused-vars
+  153:5   warning  'table_data' is assigned a value but never used         no-unused-vars
+  154:5   warning  'std_dev_d_bar' is assigned a value but never used      no-unused-vars
+  155:5   warning  'statistic_value' is assigned a value but never used    no-unused-vars
+  156:5   warning  'hypothesis_passed' is assigned a value but never used  no-unused-vars
+  157:5   warning  'lower_t_bound' is assigned a value but never used      no-unused-vars
+  158:5   warning  'upper_t_bound' is assigned a value but never used      no-unused-vars
+  159:10  warning  'extrapolate' is defined but never used                 no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-paired-t-test-iitb/exp-paired-t-test-iitb/experiment/simulation/js/t_table_data.js
+  1:5  warning  't_distribution_data' is assigned a value but never used  no-unused-vars
+
+✖ 240 problems (0 errors, 240 warnings)
+
