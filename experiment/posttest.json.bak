@@ -1,0 +1,47 @@
+[
+   {
+      "question": "A t-test is a significance test that assesses",
+      "qid": 1,
+      "option_a": "The mean of two independent groups",
+      "option_b": "The modes of two independent variables",
+      "option_c": "The standard devation of three independent variables",
+      "option_d": "The medians of two dependent groups",
+      "correct_option": "a"
+   },
+   {
+      "question": "A group of 10 students was randomly drawn from F.Y. B.Sc. class and was given yoga training for 3 weeks. Their wellness life style was compared with another similarly selected group which did not undergo such training. Which statistical test is an appropriate for testing tenability of null hypothesis?",
+      "qid": 2,
+      "option_a": "Wilcoxon t-test",
+      "option_b": "Sign test",
+      "option_c": "Independent t-test",
+      "option_d": "Paired t-test",
+      "correct_option": "c"
+   },
+   {
+      "question": "Select the correct assumption for paired t-test.",
+      "qid": 3,
+      "option_a": "Every individual in the population may not have equal probability of being selected in sample.",
+      "option_b": "The data i.e. the difference for the matched pairs follows Normal distribution",
+      "option_c": "The variance is known",
+      "option_d": "The two samples are independent",
+      "correct_option": "b"
+   },
+   {
+      "question": "Choose the example of paired data",
+      "qid": 4,
+      "option_a": "The average of time spent on smartpones by 10 people",
+      "option_b": "Marks obtained by 20 students in the exam.",
+      "option_c": "Blood pressure measurement before & after administering a drug.",
+      "option_d": "The variability in the height of 10 plants.",
+      "correct_option": "c"
+   },
+   {
+      "question": "What will be the t value when 'between groups variance' and 'within groups variance' is 200 and 50 respectively.",
+      "qid": 5,
+      "option_a": "4",
+      "option_b": "2",
+      "option_c": "16",
+      "option_d": "8",
+      "correct_option": "b"
+   }
+]
